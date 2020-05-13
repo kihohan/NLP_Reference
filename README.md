@@ -11,3 +11,7 @@ https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%8
 
 ### - Multi-gpu for keras
 https://3months.tistory.com/211
+
+### - QA in hugging face example
+
+https://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/
