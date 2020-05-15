@@ -15,3 +15,7 @@ https://3months.tistory.com/211
 ### - QA in hugging face example
 
 https://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/
+
+### - Multi-Data-Type Classification for multi_input (keras)
+
+https://stackabuse.com/python-for-nlp-creating-multi-data-type-classification-models-with-keras/
