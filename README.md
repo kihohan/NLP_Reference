@@ -26,3 +26,7 @@ https://stackabuse.com/python-for-nlp-creating-multi-data-type-classification-mo
 https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert
 
 https://www.kaggle.com/xhlulu/disaster-nlp-keras-bert-using-tfhub
+
+## - transformer structure
+
+https://blog.pingpong.us/transformer-review/
