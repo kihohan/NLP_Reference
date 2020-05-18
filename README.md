@@ -27,6 +27,10 @@ https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert
 
 https://www.kaggle.com/xhlulu/disaster-nlp-keras-bert-using-tfhub
 
-## - transformer structure
+### - transformer structure
 
 https://blog.pingpong.us/transformer-review/
+
+### - multi text classification example
+
+https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
