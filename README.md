@@ -34,3 +34,7 @@ https://blog.pingpong.us/transformer-review/
 ### - multi text classification example
 
 https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
+
+### - TextRank for Keyword Extraction
+
+https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0
