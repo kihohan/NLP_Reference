@@ -40,3 +40,7 @@ https://towardsdatascience.com/multi-class-text-classification-model-comparison-
 ### - TextRank for Keyword Extraction
 
 https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0
+
+### - 한글 자음/모음 분해
+
+https://frhyme.github.io/python/python_korean_englished/
