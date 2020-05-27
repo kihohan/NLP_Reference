@@ -45,3 +45,7 @@ https://frhyme.github.io/python/python_korean_englished/
 https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
 
 https://colab.research.google.com/drive/1rPk3ohrmVclqhH7uQ7qys4oznDdAhpzF?fbclid=IwAR2_D4c-A7H-9v0zijkBd4jEoLhKbEtCqVCAZIaplRtGCLtjk1oodedzh38
+
+### - Sentencepiece colab
+
+https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb
