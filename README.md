@@ -51,3 +51,7 @@ https://colab.research.google.com/drive/1rPk3ohrmVclqhH7uQ7qys4oznDdAhpzF?fbclid
 https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb
 
 https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/
+
+### - Farm (Framework for Adapting Representation Models)
+
+https://github.com/deepset-ai/FARM
