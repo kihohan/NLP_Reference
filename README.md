@@ -58,3 +58,11 @@ https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-prepr
 ### - Farm (Framework for Adapting Representation Models)
 
 https://github.com/deepset-ai/FARM
+
+### - CNN + Text Classification
+
+https://reniew.github.io/26/
+
+https://heung-bae-lee.github.io/2020/02/01/NLP_05/
+
+https://buomsoo-kim.github.io/keras/2018/05/23/Easy-deep-learning-with-Keras-13.md/
