@@ -21,21 +21,21 @@ https://3months.tistory.com/211
 
 https://stackabuse.com/python-for-nlp-creating-multi-data-type-classification-models-with-keras/
 
-### - Bert binary text classification (tensorflow_hub) 
+### - Bert binary Text Classification (tensorflow_hub) 
 
 https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert
 
 https://www.kaggle.com/xhlulu/disaster-nlp-keras-bert-using-tfhub
 
-### - transformer structure
+### - Transformer Structure
 
 https://blog.pingpong.us/transformer-review/
 
-### - multi text classification example
+### - Multi Text Classification Example
 
 https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
 
-### - TextRank for Keyword Extraction
+### - TextRank For Keyword Extraction
 
 https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0
 
@@ -49,7 +49,7 @@ https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
 
 https://colab.research.google.com/drive/1rPk3ohrmVclqhH7uQ7qys4oznDdAhpzF?fbclid=IwAR2_D4c-A7H-9v0zijkBd4jEoLhKbEtCqVCAZIaplRtGCLtjk1oodedzh38
 
-### - Sentencepiece colab
+### - Sentencepiece Colab
 
 https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb
 
