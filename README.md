@@ -61,6 +61,8 @@ https://github.com/deepset-ai/FARM
 
 ### - CNN + Text Classification
 
+https://www.aclweb.org/anthology/D14-1181.pdf
+
 https://reniew.github.io/26/
 
 https://heung-bae-lee.github.io/2020/02/01/NLP_05/
