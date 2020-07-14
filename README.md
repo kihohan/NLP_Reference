@@ -74,3 +74,7 @@ https://buomsoo-kim.github.io/keras/2018/05/23/Easy-deep-learning-with-Keras-13.
 https://lovit.github.io/nlp/machine%20learning/2018/03/19/kmeans_initializer/
 
 https://github.com/lovit/clustering4docs/blob/master/tutorial.ipynb
+
+### - NLP Tokenizers
+
+https://blog.floydhub.com/tokenization-nlp/
