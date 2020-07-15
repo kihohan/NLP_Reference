@@ -63,6 +63,8 @@ https://github.com/deepset-ai/FARM
 
 https://www.aclweb.org/anthology/D14-1181.pdf
 
+https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf
+
 https://reniew.github.io/26/
 
 https://heung-bae-lee.github.io/2020/02/01/NLP_05/
