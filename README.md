@@ -67,6 +67,8 @@ https://reniew.github.io/26/
 
 https://heung-bae-lee.github.io/2020/02/01/NLP_05/
 
+https://buomsoo-kim.github.io/keras/2018/05/16/Easy-deep-learning-with-Keras-12.md/
+
 https://buomsoo-kim.github.io/keras/2018/05/23/Easy-deep-learning-with-Keras-13.md/
 
 ### - Documents Clustering For Kmeans
