@@ -82,3 +82,7 @@ https://github.com/lovit/clustering4docs/blob/master/tutorial.ipynb
 ### - NLP Tokenizers
 
 https://blog.floydhub.com/tokenization-nlp/
+
+### - 정답 유형을 분류하는 딥러닝 기술
+
+https://tech.kakaoenterprise.com/64?fbclid=IwAR2cE9axZjIup_0EzOLBNhq3llVF--g6oHW67SxW6OqEivArIoJA6fPDMJ4
