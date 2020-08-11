@@ -86,3 +86,7 @@ https://blog.floydhub.com/tokenization-nlp/
 ### - 정답 유형을 분류하는 딥러닝 기술
 
 https://tech.kakaoenterprise.com/64?fbclid=IwAR2cE9axZjIup_0EzOLBNhq3llVF--g6oHW67SxW6OqEivArIoJA6fPDMJ4
+
+### - GPT-3
+
+https://blog.pingpong.us/gpt3-review/?fbclid=IwAR3qKW1Ev_BRxV97ii9d0sK8tSwpQYGZLEKhDvStrTKMo9dbABFB1ouwBUo
