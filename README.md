@@ -96,3 +96,5 @@ https://blog.pingpong.us/gpt3-review/?fbclid=IwAR3qKW1Ev_BRxV97ii9d0sK8tSwpQYGZL
 https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b
 
 https://marcotcr.github.io/lime/tutorials/Lime%20-%20multiclass.html
+
+https://www.youtube.com/watch?v=K4nU7yXy7R8&list=PLRnpTeT6IGjIfxyQOjje9T_fKgeFaYEwc&index=92&t=0s
