@@ -90,3 +90,7 @@ https://tech.kakaoenterprise.com/64?fbclid=IwAR2cE9axZjIup_0EzOLBNhq3llVF--g6oHW
 ### - GPT-3
 
 https://blog.pingpong.us/gpt3-review/?fbclid=IwAR3qKW1Ev_BRxV97ii9d0sK8tSwpQYGZLEKhDvStrTKMo9dbABFB1ouwBUo
+
+### - Lime & Shap Algorithm
+
+https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b
