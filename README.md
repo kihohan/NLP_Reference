@@ -94,3 +94,5 @@ https://blog.pingpong.us/gpt3-review/?fbclid=IwAR3qKW1Ev_BRxV97ii9d0sK8tSwpQYGZL
 ### - Lime & Shap Algorithm
 
 https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b
+
+https://marcotcr.github.io/lime/tutorials/Lime%20-%20multiclass.html
