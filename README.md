@@ -98,3 +98,7 @@ https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b
 https://marcotcr.github.io/lime/tutorials/Lime%20-%20multiclass.html
 
 https://www.youtube.com/watch?v=K4nU7yXy7R8&list=PLRnpTeT6IGjIfxyQOjje9T_fKgeFaYEwc&index=92&t=0s
+
+### - A Convolutional Attention Model for Text Classification
+
+https://www.researchgate.net/profile/Ruifeng_Xu2/publication/322247966_A_Convolutional_Attention_Model_for_Text_Classification/links/5b03e6c0aca2720ba09960d2/A-Convolutional-Attention-Model-for-Text-Classification.pdf
