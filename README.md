@@ -104,3 +104,9 @@ https://www.youtube.com/watch?v=K4nU7yXy7R8&list=PLRnpTeT6IGjIfxyQOjje9T_fKgeFaY
 https://www.researchgate.net/profile/Ruifeng_Xu2/publication/322247966_A_Convolutional_Attention_Model_for_Text_Classification/links/5b03e6c0aca2720ba09960d2/A-Convolutional-Attention-Model-for-Text-Classification.pdf
 
 https://blog.naver.com/PostView.nhn?blogId=hist0134&logNo=221386940063&parentCategoryNo=&categoryNo=21&viewDate=&isShowPopularPosts=true&from=search
+
+
+### - BLEU Score
+
+https://donghwa-kim.github.io/BLEU.html
+
