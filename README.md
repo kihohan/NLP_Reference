@@ -113,3 +113,7 @@ https://donghwa-kim.github.io/BLEU.html
 ### - Attention For Text Classification
 
 https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794
+
+### - Vdcnn Text Classification
+
+https://arxiv.org/pdf/1606.01781.pdf
