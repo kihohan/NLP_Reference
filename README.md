@@ -117,3 +117,7 @@ https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-v
 ### - Vdcnn Text Classification
 
 https://arxiv.org/pdf/1606.01781.pdf
+
+### - FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT
+
+https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
