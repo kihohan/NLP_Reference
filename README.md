@@ -121,3 +121,7 @@ https://arxiv.org/pdf/1606.01781.pdf
 ### - FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT
 
 https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
+
+### - 은닉마르코프모델을 이용한 정보추출
+
+https://bi.snu.ac.kr/Publications/Theses/EomJH_MS01.pdf
