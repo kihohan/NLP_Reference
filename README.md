@@ -125,3 +125,7 @@ https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-l
 ### - 은닉마르코프모델을 이용한 정보추출
 
 https://bi.snu.ac.kr/Publications/Theses/EomJH_MS01.pdf
+
+### - 클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI
+
+https://d2.naver.com/helloworld/7753273
