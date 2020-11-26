@@ -129,3 +129,7 @@ https://bi.snu.ac.kr/Publications/Theses/EomJH_MS01.pdf
 ### - 클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI
 
 https://d2.naver.com/helloworld/7753273
+
+### -  BERT-based Lexical Substitution
+
+https://www.aclweb.org/anthology/P19-1328.pdf
