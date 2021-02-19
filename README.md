@@ -133,3 +133,8 @@ https://d2.naver.com/helloworld/7753273
 ### -  BERT-based Lexical Substitution
 
 https://www.aclweb.org/anthology/P19-1328.pdf
+
+
+### - 모두의 말뭉치
+
+https://corpus.korean.go.kr/#down
