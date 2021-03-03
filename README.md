@@ -142,3 +142,4 @@ https://corpus.korean.go.kr/#down
 ### - 지프의 법칙
 
 https://ko.wikipedia.org/wiki/%EC%A7%80%ED%94%84%EC%9D%98_%EB%B2%95%EC%B9%99
+https://youngjai.tistory.com/m/7
