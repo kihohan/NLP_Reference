@@ -134,7 +134,6 @@ https://d2.naver.com/helloworld/7753273
 
 https://www.aclweb.org/anthology/P19-1328.pdf
 
-
 ### - 모두의 말뭉치
 
 https://corpus.korean.go.kr/#down
@@ -144,3 +143,7 @@ https://corpus.korean.go.kr/#down
 https://ko.wikipedia.org/wiki/%EC%A7%80%ED%94%84%EC%9D%98_%EB%B2%95%EC%B9%99  
 
 https://youngjai.tistory.com/m/7
+
+### - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks 
+
+https://arxiv.org/pdf/1908.10084.pdf  
