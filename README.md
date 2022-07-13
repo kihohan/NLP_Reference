@@ -1,5 +1,8 @@
 # Contents
 
+### - 한국어 자연어 오픈소스 모음
+https://docs.google.com/spreadsheets/d/1CDG2l6SfAggpU_m2cvCtIMG0gFXCGhjZMLSxZ_rzIXQ/edit#gid=0
+
 ### - Sequence Bucketing (Dynamic Padding, Bucketing)
 https://www.altoros.com/blog/the-magic-behind-google-translate-sequence-to-sequence-models-and-tensorflow/
 
